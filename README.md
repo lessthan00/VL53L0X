@@ -1,8 +1,8 @@
 # VL53L0X  
 
-<br><img src="./VL53L0X_F.png" width="" alt="alt_text" title="image_tooltip">
-<br><img src="./VL53L0X_B.png" width="" alt="alt_text" title="image_tooltip">
-<br><img src="./VL53L0X-F_Paste.svg" alt="alt_text" alt="VL53L0X-F_Paste">
+<br><img src="./VL53L0X_F.png" width="100%" alt="alt_text" title="image_tooltip">
+<br><img src="./VL53L0X_B.png" width="100%" alt="alt_text" title="image_tooltip">
+<br><img src="./VL53L0X-F_Cu.svg" width="100%"  alt="alt_text" alt="VL53L0X-F_Paste">
 
   
 参考设计:https://e.tb.cn/h.6H1u5hUDzXThlKt?tk=nUvbVjZAV5J  
