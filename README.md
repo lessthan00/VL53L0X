@@ -1,8 +1,8 @@
 # VL53L0X  
 
-<div style="text-align:center"><img src="./VL53L0X_F.png" width="50%" alt="VL53L0X" /></div>
-<div style="text-align:center"><img src="./VL53L0X_B.png" width="50%" alt="VL53L0X" /></div>
-<div style="text-align:center"><img src="./VL53L0X-F_Cu.svg" width="50%" alt="VL53L0X" /></div>
+<img src="./VL53L0X_F.png" style="display:block; margin:auto; width:50%;" />
+<img src="./VL53L0X_B.png" style="display:block; margin:auto; width:50%;" />
+<img src="./VL53L0X-F_Cu.svg" style="display:block; margin:auto; width:50%;" />
   
 参考设计:https://e.tb.cn/h.6H1u5hUDzXThlKt?tk=nUvbVjZAV5J  
 红外测距模块  
