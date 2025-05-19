@@ -1,11 +1,9 @@
 # VL53L0X  
 
-<br><img src="https://github.com/Circuit-Digest/POV-Display/blob/1e805c9adfdca9d2ec19b95038a96ecb6ce7c9b8/Images/3D%20Holder.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_F.png" width="" alt="alt_text" title="image_tooltip">
+<br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_B.png" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X-F_Paste.svg" width="" alt="alt_text" title="image_tooltip">
-[img](./VL53L0X_F.png)  
-[img](./VL53L0X_B.png)  
-[img](./VL53L0X-F_Paste.svg)  
-[img](./VL53L0X_ibom.html)  
+<br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_ibom.html" width="" alt="alt_text" title="image_tooltip">
   
 参考设计:https://e.tb.cn/h.6H1u5hUDzXThlKt?tk=nUvbVjZAV5J  
 红外测距模块  
