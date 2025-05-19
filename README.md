@@ -3,11 +3,7 @@
 <br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_F.png" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_B.png" width="" alt="alt_text" title="image_tooltip">
 <br><img src="https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X-F_Paste.svg" width="100%" alt="VL53L0X-F_Paste">
-<iframe src="https://htmlpreview.github.io/?https://github.com/lessthan00/VL53L0X/blob/main/VL53L0X_ibom.html" 
-        width="100%" 
-        height="500px"
-        title="VL53L0X Interactive BOM">
-</iframe>
+
   
 参考设计:https://e.tb.cn/h.6H1u5hUDzXThlKt?tk=nUvbVjZAV5J  
 红外测距模块  
